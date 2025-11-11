@@ -1,4 +1,5 @@
 # Uvod v Git
+## Halo ich bin Anže
 
 Git je orodje, ki omogoča **sledenje spremembam ( anzeznidar2025/26)** v datotekah in učinkovito **sodelovanje v skupinah s sošolci in kolegi, ki jih narediš na poti**.  
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
