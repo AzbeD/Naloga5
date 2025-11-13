@@ -15,7 +15,7 @@ S tem se zmanjša možnost konfliktov in izgube podatkov.
 
 
 ## Glavne značilnosti
-
+Emil:)
 - **Zgodovina sprememb**: vsak commit predstavlja točko v zgodovini projekta.  
 - **Veje**: omogočajo razvoj različnih funkcionalnosti vzporedno.  
 - **Skladnost (merge)**: Git zna združiti spremembe različnih razvijalcev.  
